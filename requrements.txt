@@ -1,0 +1,4 @@
+django>=3.2,<3.3
+django-dotenv(not required for production)
+gunicorn(made for production)
+psycopg2-binary
